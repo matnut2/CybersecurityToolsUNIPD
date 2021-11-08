@@ -5,9 +5,9 @@ This repository contains some Python programs to solve the Challenge of the Cybe
 I'm a beginner with Python and Cybersecurity, so, pls, don't kill me.
 
 ## Principal Function
-* Base64 Encode and Decode
-* Ceaser Cipher
-* MD5 Encrypt and Decrypt (with www.md5online.it API)
+* Base64 Decoder
+* Ceaser Cipher Decrypter
+* Vigenere Cipher Decrypter
 
 ## Infos
 * Author: Soldà Matteo
