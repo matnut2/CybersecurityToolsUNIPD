@@ -9,6 +9,7 @@ I'm a beginner with Python and Cybersecurity, so, pls, don't kill me.
 * Ceaser Cipher Decrypter - Bruteforce
 * Vigenere Cipher Decrypter
 * ZERO and ONE to Binary Value
+* Uppercase Characters Extractor
 
 ## Infos
 * Author: Soldà Matteo
