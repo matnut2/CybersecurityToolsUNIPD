@@ -6,8 +6,9 @@ I'm a beginner with Python and Cybersecurity, so, pls, don't kill me.
 
 ## Principal Function
 * Base64 Decoder
-* Ceaser Cipher Decrypter
+* Ceaser Cipher Decrypter - Bruteforce
 * Vigenere Cipher Decrypter
+* ZERO and ONE to Binary Value
 
 ## Infos
 * Author: Soldà Matteo
