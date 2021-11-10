@@ -10,6 +10,7 @@ I'm a beginner with Python and Cybersecurity, so, pls, don't kill me.
 * [WIP] Vigenere Cipher Decrypter
 * ZERO and ONE to Binary Value
 * Uppercase Characters Extractor
+* XOR _char by char_ Algorithm 
 * [WIP] Request Form - GET and POST 
 
 ## Infos
